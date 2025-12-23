@@ -41,8 +41,7 @@ Tools & Technologies:
 
 Intel Quartus Prime
 Platform Designer (Qsys)
-ModelSim / Questa
-ARM Cortex-A9 HPS
+Altera SoC EDS
 Embedded Linux
 C / Verilog
 Memory-mapped I/O (mmap)
