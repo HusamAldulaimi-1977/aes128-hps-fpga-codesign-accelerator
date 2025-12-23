@@ -1,4 +1,4 @@
-//You will need to generate new hps.h file when you assign the address base in Platform designer(Qsys) address mapping before compiling src.c//
+//You will need to generate new hps.h file after generate HDL in Platform designer(Qsys) address mapping ////
 
 #ifndef _ALTERA_HPS_0_H_
 #define _ALTERA_HPS_0_H_
