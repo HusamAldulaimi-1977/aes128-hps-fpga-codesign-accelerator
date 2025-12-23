@@ -1,2 +1,4 @@
 launch Altera SoC EDS command shell
-go to src.c directory(s
+go to aes128.c folder directory(aes128.c, Makefile and hps_0.h) should be in the same folder
+type “make” to compile
+check the generated ARM execution file
